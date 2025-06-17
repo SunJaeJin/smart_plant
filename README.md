@@ -1,2 +1,2 @@
 # smart_plant
-![Uploading image.png…]()
+./프로젝트소개.png
