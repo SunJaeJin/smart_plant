@@ -1,0 +1,20 @@
+2024-05-07 12:35:18,359 - DEBUG - msg
+2024-05-07 15:06:15,603 - DEBUG - msg
+2024-05-07 15:16:29,301 - DEBUG - msg
+2024-05-07 15:16:30,263 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-07 15:16:31,069 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/devices/photo HTTP/1.1" 500 630
+2024-05-07 15:17:29,933 - DEBUG - msg
+2024-05-07 15:17:30,733 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-07 15:17:31,826 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/devices/photo HTTP/1.1" 500 630
+2024-05-07 15:18:58,303 - DEBUG - msg
+2024-05-07 15:18:59,106 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-07 15:19:00,398 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/devices/photo HTTP/1.1" 500 630
+2024-05-07 15:20:06,119 - DEBUG - msg
+2024-05-07 17:02:50,823 - DEBUG - msg
+2024-05-07 17:05:08,434 - DEBUG - msg
+2024-05-07 17:05:09,278 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-07 17:05:15,382 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/devices/photo HTTP/1.1" 500 630
+2024-05-07 17:05:38,467 - DEBUG - msg
+2024-05-07 17:06:58,731 - DEBUG - msg
+2024-05-07 17:17:21,540 - DEBUG - msg
+2024-05-07 20:36:10,284 - DEBUG - msg

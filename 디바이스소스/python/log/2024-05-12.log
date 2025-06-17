@@ -1,0 +1,52 @@
+2024-05-12 20:01:13,049 - DEBUG - msg
+2024-05-12 20:33:10,647 - DEBUG - msg
+2024-05-12 20:33:10,657 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:33:10,815 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EA%B8%88%EA%B3%84%EA%B5%AD HTTP/1.1" 200 451
+2024-05-12 20:33:10,818 - DEBUG - msg
+2024-05-12 20:33:16,365 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:33:16,406 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:33:16,423 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:33:16,447 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:33:16,451 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:33:16,484 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:33:16,488 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:33:16,518 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:33:35,773 - DEBUG - msg
+2024-05-12 20:38:02,082 - DEBUG - msg
+2024-05-12 20:38:02,098 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:38:02,137 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EB%8D%B0%EC%9D%B4%EC%A7%80 HTTP/1.1" 200 494
+2024-05-12 20:38:02,142 - DEBUG - msg
+2024-05-12 20:38:07,682 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:38:07,715 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:38:07,727 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:38:07,770 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:38:07,778 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:38:07,811 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:38:07,819 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:38:07,860 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:38:20,107 - DEBUG - msg
+2024-05-12 20:46:55,588 - DEBUG - msg
+2024-05-12 20:46:55,604 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:46:55,973 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EA%B8%88%EC%A0%84%EC%88%98 HTTP/1.1" 200 500
+2024-05-12 20:46:55,982 - DEBUG - msg
+2024-05-12 20:47:01,522 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:47:01,553 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:47:01,558 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:47:01,601 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:47:01,605 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:47:01,648 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:47:01,652 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:47:01,702 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:51:28,155 - DEBUG - msg
+2024-05-12 20:55:34,173 - DEBUG - msg
+2024-05-12 20:55:34,189 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:55:34,233 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EA%B8%88%EC%A0%84%EC%88%98 HTTP/1.1" 200 500
+2024-05-12 20:55:34,241 - DEBUG - msg
+2024-05-12 20:55:39,786 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:55:40,140 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:55:40,151 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:55:40,185 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:55:40,201 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:55:40,246 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-12 20:55:40,250 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-12 20:55:40,275 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25

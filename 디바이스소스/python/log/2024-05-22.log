@@ -1,0 +1,131 @@
+2024-05-22 15:02:53,576 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:53,678 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 15:02:53,767 - DEBUG - module_setup
+2024-05-22 15:02:53,770 - DEBUG - SMART POT START
+2024-05-22 15:02:53,774 - DEBUG - SMART POT START
+2024-05-22 15:02:53,780 - DEBUG - LedOn: Auto
+2024-05-22 15:02:53,784 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:53,832 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 15:02:59,376 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:59,434 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 15:02:59,442 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:59,500 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 15:02:59,507 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:59,573 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 15:02:59,581 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:59,630 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 15:02:59,638 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 15:02:59,716 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 15:02:59,719 - DEBUG - FanOn:humi_high
+2024-05-22 15:09:46,093 - DEBUG - SMART POT STOP
+2024-05-22 15:09:46,095 - DEBUG - HumiOff:manual
+2024-05-22 15:58:37,976 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:51,991 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:52,055 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:01:52,141 - DEBUG - module_setup
+2024-05-22 16:01:52,145 - DEBUG - SMART POT START
+2024-05-22 16:01:52,149 - DEBUG - SMART POT START
+2024-05-22 16:01:52,157 - DEBUG - LedOn: Auto
+2024-05-22 16:01:52,160 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:52,204 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:01:57,746 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:57,799 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:01:57,804 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:57,844 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:01:57,849 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:57,893 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:01:57,898 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:57,945 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:01:57,951 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:01:58,003 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:01:58,005 - DEBUG - FanOn:humi_high
+2024-05-22 16:01:59,684 - DEBUG - SMART POT STOP
+2024-05-22 16:01:59,686 - DEBUG - HumiOff:manual
+2024-05-22 16:27:35,744 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:35,809 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:27:35,891 - DEBUG - module_setup
+2024-05-22 16:27:35,895 - DEBUG - SMART POT START
+2024-05-22 16:27:35,900 - DEBUG - SMART POT START
+2024-05-22 16:27:35,907 - DEBUG - LedOn: Auto
+2024-05-22 16:27:35,910 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:35,955 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:27:41,491 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:41,535 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:27:41,540 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:41,586 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:27:41,591 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:41,628 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:27:41,632 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:41,677 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:27:41,682 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:27:41,735 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:27:41,737 - DEBUG - FanOn:humi_high
+2024-05-22 16:27:45,021 - DEBUG - SMART POT STOP
+2024-05-22 16:27:45,024 - DEBUG - HumiOff:manual
+2024-05-22 16:30:02,112 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:49,170 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:49,227 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:32:49,319 - DEBUG - module_setup
+2024-05-22 16:32:49,322 - DEBUG - SMART POT START
+2024-05-22 16:32:49,327 - DEBUG - SMART POT START
+2024-05-22 16:32:49,333 - DEBUG - LedOn: Auto
+2024-05-22 16:32:49,336 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:49,382 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:32:54,928 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:54,978 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:32:54,985 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:55,028 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:32:55,035 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:55,075 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:32:55,082 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:55,122 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:32:55,129 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:32:55,174 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:32:55,177 - DEBUG - FanOn:temp_high
+2024-05-22 16:32:57,403 - DEBUG - SMART POT STOP
+2024-05-22 16:32:57,406 - DEBUG - HumiOff:manual
+2024-05-22 16:33:47,902 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:47,975 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:33:48,243 - DEBUG - module_setup
+2024-05-22 16:33:48,253 - DEBUG - SMART POT START
+2024-05-22 16:33:48,263 - DEBUG - SMART POT START
+2024-05-22 16:33:48,270 - DEBUG - LedOn: Auto
+2024-05-22 16:33:48,275 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:48,359 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:33:53,895 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:54,027 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:33:54,031 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:54,073 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:33:54,078 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:54,114 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:33:54,118 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:54,158 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-22 16:33:54,163 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:33:54,210 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:33:54,212 - DEBUG - FanOn:temp_high
+2024-05-22 16:39:44,951 - DEBUG - SMART POT STOP
+2024-05-22 16:39:44,952 - DEBUG - HumiOff:manual
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             2024-05-22 16:41:28,366 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:28,453 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:41:28,539 - DEBUG - module_setup
+2024-05-22 16:41:28,543 - DEBUG - SMART POT START
+2024-05-22 16:41:28,547 - DEBUG - SMART POT START
+2024-05-22 16:41:28,554 - DEBUG - LedOn: Auto
+2024-05-22 16:41:28,557 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:28,595 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:41:31,016 - DEBUG - SMART POT CONNETED
+2024-05-22 16:41:34,139 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:34,177 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 43
+2024-05-22 16:41:34,185 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:34,230 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 43
+2024-05-22 16:41:34,236 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:34,276 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 43
+2024-05-22 16:41:34,282 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:34,326 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 43
+2024-05-22 16:41:34,333 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-22 16:41:34,375 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/actuator-log HTTP/1.1" 201 54
+2024-05-22 16:41:34,378 - DEBUG - FanOn:humi_high
+2024-05-23 19:38:13,960 - DEBUG - SMART POT INIT
+2024-05-23 19:38:13,963 - DEBUG - SMART POT STOP
+2024-05-23 19:38:17,708 - DEBUG - SMART POT STOP
+2024-05-23 19:38:17,710 - DEBUG - HumiOff:manual

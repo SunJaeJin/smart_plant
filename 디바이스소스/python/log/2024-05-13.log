@@ -1,0 +1,41 @@
+2024-05-13 19:52:44,650 - DEBUG - msg
+2024-05-13 20:01:45,284 - DEBUG - msg
+2024-05-13 20:07:14,353 - DEBUG - msg
+2024-05-13 20:07:15,205 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 20:07:22,508 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/devices/photo HTTP/1.1" 201 105
+2024-05-13 20:07:26,639 - DEBUG - msg
+2024-05-13 20:07:26,643 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 20:07:26,675 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EB%8D%B0%EC%9D%B4%EC%A7%80 HTTP/1.1" 200 494
+2024-05-13 20:07:26,679 - DEBUG - msg
+2024-05-13 20:17:09,415 - DEBUG - msg
+2024-05-13 20:36:40,475 - DEBUG - msg
+2024-05-13 20:49:24,363 - DEBUG - msg
+2024-05-13 20:49:24,383 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 20:49:24,666 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EC%82%B0%EC%84%B8%EB%B2%A0%EB%A6%AC%EC%95%84 HTTP/1.1" 200 571
+2024-05-13 20:49:24,671 - DEBUG - msg
+2024-05-13 20:49:46,976 - DEBUG - msg
+2024-05-13 20:50:21,028 - DEBUG - msg
+2024-05-13 20:50:21,044 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 20:50:21,090 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EC%82%B0%EC%84%B8%EB%B2%A0%EB%A6%AC%EC%95%84 HTTP/1.1" 200 571
+2024-05-13 20:50:21,100 - DEBUG - msg
+2024-05-13 20:58:26,342 - DEBUG - msg
+2024-05-13 21:01:27,143 - DEBUG - msg
+2024-05-13 21:01:27,161 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 21:01:27,458 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EC%82%B0%EC%84%B8%EB%B2%A0%EB%A6%AC%EC%95%84 HTTP/1.1" 200 571
+2024-05-13 21:01:27,466 - DEBUG - msg
+2024-05-13 21:01:36,321 - DEBUG - msg
+2024-05-13 21:21:08,161 - DEBUG - msg
+2024-05-13 21:21:08,179 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 21:21:08,239 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EC%82%B0%EC%84%B8%EB%B2%A0%EB%A6%AC%EC%95%84 HTTP/1.1" 200 571
+2024-05-13 21:21:08,248 - DEBUG - msg
+2024-05-13 21:22:00,171 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 21:22:02,812 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-13 21:22:06,520 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 21:44:59,036 - DEBUG - msg
+2024-05-13 21:45:03,390 - DEBUG - msg
+2024-05-13 21:45:09,399 - DEBUG - msg
+2024-05-13 21:45:09,415 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-13 21:45:09,481 - DEBUG - http://ceprj.gachon.ac.kr:60007 "GET /api/plantdata/plants/name/%EA%B8%88%EC%A0%84%EC%88%98 HTTP/1.1" 200 500
+2024-05-13 21:45:09,493 - DEBUG - msg
+2024-05-13 21:45:21,240 - DEBUG - msg
+2024-05-13 22:35:16,100 - DEBUG - msg

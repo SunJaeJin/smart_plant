@@ -1,0 +1,37 @@
+2024-05-06 19:54:47,602 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 19:55:07,334 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 19:55:07,376 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-06 19:55:07,397 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 19:55:07,430 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-06 19:58:53,754 - DEBUG - msg
+2024-05-06 19:59:47,508 - DEBUG - msg
+2024-05-06 20:16:46,885 - DEBUG - msg
+2024-05-06 20:18:13,073 - DEBUG - msg
+2024-05-06 20:23:55,354 - DEBUG - msg
+2024-05-06 20:25:30,259 - DEBUG - msg
+2024-05-06 20:26:43,926 - DEBUG - msg
+2024-05-06 20:31:41,471 - DEBUG - msg
+2024-05-06 20:32:30,195 - DEBUG - msg
+2024-05-06 20:32:32,194 - DEBUG - msg
+2024-05-06 20:33:05,711 - DEBUG - msg
+2024-05-06 20:34:17,395 - DEBUG - msg
+2024-05-06 20:34:55,980 - DEBUG - msg
+2024-05-06 20:35:35,770 - DEBUG - msg
+2024-05-06 20:43:40,627 - DEBUG - msg
+2024-05-06 20:47:38,863 - DEBUG - msg
+2024-05-06 20:48:57,043 - DEBUG - msg
+2024-05-06 20:50:06,271 - DEBUG - msg
+2024-05-06 20:58:45,404 - DEBUG - msg
+2024-05-06 20:59:33,079 - DEBUG - msg
+2024-05-06 21:06:04,496 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 21:06:04,538 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-06 21:06:04,551 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 21:06:04,582 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-06 21:06:09,601 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 21:06:09,699 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-06 21:06:09,708 - DEBUG - Starting new HTTP connection (1): ceprj.gachon.ac.kr:60007
+2024-05-06 21:06:09,864 - DEBUG - http://ceprj.gachon.ac.kr:60007 "POST /api/logs/sensor-logs HTTP/1.1" 201 25
+2024-05-06 21:55:16,472 - DEBUG - msg
+2024-05-06 21:55:30,268 - DEBUG - msg
+2024-05-06 21:47:31,160 - DEBUG - msg
+2024-05-06 21:48:27,457 - DEBUG - msg
